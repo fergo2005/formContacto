@@ -1,0 +1,39 @@
+h1 {
+    color: rgba(48, 16, 234, 0.625);
+    /* text-align: center; */
+}
+
+p {
+    color: brown;
+}
+
+h2 {
+    /*background-color: bisque;*/
+    background-color: rgba(199, 198, 158, 0.574);
+}
+
+form {
+    background-color: azure;
+    /*text-align: center;*/
+}
+
+/* Para las clases*/
+header {
+    background-color: aquamarine;
+}
+
+aside {
+    background-color: darkkhaki;
+}
+
+.asider {
+    color: blueviolet;
+}
+
+/*par los ID*/
+#footer
+
+footer-pagindex {
+    background-color: black;
+    color: blanchedalmond;
+}
